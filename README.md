@@ -4,6 +4,12 @@ Projeto demonstrativo de portfólio para praticar e apresentar desenvolvimento c
 
 > Aplicação educacional. Não possui autenticação nem foi preparada para receber dados reais ou ser publicada diretamente na internet.
 
+## Prévia visual
+
+> Mockup ilustrativo com dados fictícios. Esta imagem não é uma captura de uma execução real da aplicação. Consulte a seção de execução para iniciar a API.
+
+![Prévia ilustrativa do painel de chamados](docs/assets/gestao-chamados-dashboard.svg)
+
 ## Arquitetura
 
 ```text
